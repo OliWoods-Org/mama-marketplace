@@ -1,6 +1,5 @@
 {
-  "name": "MAMA Marketplace",
-  "owner": "OliWoods-Org",
-  "description": "MAMA workspace plugins — bridge, dispatch, fleet, voice, review",
-  "plugins": []
+    "name": "MAMA Marketplace",
+    "owner": "OliWoods-Org",
+    "plugins": []
 }
