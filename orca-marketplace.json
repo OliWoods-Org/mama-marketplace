@@ -1,36 +1,5 @@
 {
     "name": "MAMA Marketplace",
     "owner": "OliWoods-Org",
-    "plugins": [
-        {
-            "id": "oliwoods.orca-excalidraw",
-            "source": { "kind": "git", "url": "https://github.com/stablyai/orca-plugin-excalidraw.git", "ref": "main" },
-            "description": "Draw and edit .excalidraw diagrams in an editor tab. MAMA uses this for archify + bridge diagrams.",
-            "categories": ["editors", "mama"]
-        },
-        {
-            "id": "oliwoods.orca-spreadsheet",
-            "source": { "kind": "git", "url": "https://github.com/stablyai/orca-plugin-spreadsheet.git", "ref": "main" },
-            "description": "Open and edit xlsx/csv in an editor tab. MAMA uses this for revenue, healthie, registry spreadsheets.",
-            "categories": ["editors", "mama"]
-        },
-        {
-            "id": "oliwoods.orca-sqlite-browser",
-            "source": { "kind": "git", "url": "https://github.com/stablyai/orca-plugin-sqlite-browser.git", "ref": "main" },
-            "description": "Browse tables/views/indices in an editor tab. MAMA uses this for relay and buzz-prod databases.",
-            "categories": ["editors", "mama"]
-        },
-        {
-            "id": "oliwoods.orca-word-viewer",
-            "source": { "kind": "git", "url": "https://github.com/stablyai/orca-plugin-word-viewer.git", "ref": "main" },
-            "description": "Read .docx in place. MAMA uses this for client docs (Corace, DrMyers).",
-            "categories": ["editors", "mama"]
-        },
-        {
-            "id": "oliwoods.orca-image-markup",
-            "source": { "kind": "git", "url": "https://github.com/stablyai/orca-plugin-image-markup.git", "ref": "main" },
-            "description": "Mark up screenshots and images in place. MAMA uses this for RustDesk/Pixel screenshots sent to agents.",
-            "categories": ["editors", "mama"]
-        }
-    ]
+    "plugins": []
 }
